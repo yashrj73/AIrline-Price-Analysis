@@ -1,3 +1,3 @@
 # Arline Industry-Price-Analysis
 
-Project reports: shorturl.at/jHMS0
+Project reports: **shorturl.at/jHMS0**
